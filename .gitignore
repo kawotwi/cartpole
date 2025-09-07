@@ -1,0 +1,36 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore notebook output files (optional, if using extensions/scripts)
+*.nbconvert.ipynb
+
+# Ignore data and logs (customize as needed)
+data/
+*.csv
+*.tsv
+*.log
+
+# Ignore environment files
+.env
+venv/
+ENV/
+env/
+.ropeproject/
+
+# Ignore Conda environments (if included locally)
+*.conda
+*.npy
+*.npz
+
+# Ignore coverage and pytest reports
+htmlcov/
+*.coverage
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
