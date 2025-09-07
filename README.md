@@ -8,7 +8,7 @@ Robotics Q-learning agent build.
 
 ![Robot Demo](docs/images/robot_demo.gif)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Git
@@ -17,5 +17,5 @@ Robotics Q-learning agent build.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/robotics-project.git
-   cd robotics-project
+   git clone https://github.com/yourusername/cartpole.git
+   cd cartpole
